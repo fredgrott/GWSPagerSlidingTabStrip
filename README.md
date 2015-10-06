@@ -1,6 +1,8 @@
 GWSPagerSlidingTabStrip
 =========================
 
+For version 1.0.0.1 I need to set it so that it uses my other ripple library for the back port.
+
 Usage
 =====
 
